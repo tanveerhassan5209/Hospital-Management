@@ -1,16 +1,18 @@
 
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Tanveer-red)
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![Homepage](https://user-images.githubusercontent.com/61884592/188278809-5fe58124-6ed2-4ce8-bca0-447db103f179.jpg)
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
-### Invoice
-![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
+![Dashboard](https://user-images.githubusercontent.com/61884592/188278838-d36d0654-f0e3-43e1-87a9-1591218ffd58.jpg)
 ### Doctor list
-![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
+![Doctor](https://user-images.githubusercontent.com/61884592/188278904-f0c272d7-e665-4347-83f0-d0eaa9ef57b7.jpg)
+### Patient list
+![Patient](https://user-images.githubusercontent.com/61884592/188278938-802a0ece-b010-4c00-ad8a-fd2eea98aa36.jpg)
+### Appointments list
+![Appointments](https://user-images.githubusercontent.com/61884592/188278956-69d4575b-5581-42c3-98c3-f7374b75ac6a.jpg)
 ---
 ## Functions
 ### Admin
